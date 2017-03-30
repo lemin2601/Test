@@ -18,4 +18,8 @@ public class MainActivity extends AppCompatActivity {
         int i =0;
         i+=1;
     }
+     private void intit3(){
+        int i =0;
+        i+=1;
+    }
 }
